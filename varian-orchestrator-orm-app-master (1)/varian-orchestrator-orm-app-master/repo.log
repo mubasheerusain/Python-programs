@@ -1,0 +1,48 @@
+2020-09-10 06:35:17,198#root#INFO#Created the folder C://Users/varianpocdbuser1/Desktop/Python-pull/TestFolder#
+2020-09-10 06:35:17,200#git.cmd#DEBUG#Popen(['git', 'init'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=False, shell=None, istream=None)#
+2020-09-10 06:35:17,453#git.util#DEBUG#Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)#
+2020-09-10 06:35:17,465#git.cmd#DEBUG#Popen(['git', 'remote', 'add', 'origin', 'https://github.com/sachinpai26/test.git'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=False, shell=None, istream=None)#
+2020-09-10 06:35:17,546#git.cmd#DEBUG#Popen(['git', 'fetch', '-v', 'origin'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=True, shell=None, istream=None)#
+2020-09-10 06:35:21,081#git.cmd#DEBUG#Popen(['git', 'pull', '-v', 'origin', 'master'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=True, shell=None, istream=None)#
+2020-09-10 06:35:22,184#git.remote#DEBUG#Fetch head lines do not match lines provided via progress information
+length of progress lines 2 should be equal to lines in FETCH_HEAD file 1
+Will ignore extra progress lines or fetch head lines.#
+2020-09-10 06:35:22,185#git.remote#DEBUG#info lines: [' * branch            master     -> FETCH_HEAD', ' = [up to date]      master     -> origin/master']#
+2020-09-10 06:35:22,185#git.remote#DEBUG#head info : ["b1a953666b06a5f3474b2be1b11a01067b5925e4\t\tbranch 'master' of https://github.com/sachinpai26/test\n"]#
+2020-09-10 06:35:22,185#root#INFO#Package successfully pulled from the repo.#
+2020-09-10 06:43:01,892#root#INFO#Conversion to exe file successful#
+2020-09-10 06:43:24,620#root#INFO#Exe file successfully executed#
+2020-09-10 06:43:24,727#root#INFO#Database connected successfully#
+2020-09-10 06:44:23,642#root#INFO#Created the folder C://Users/varianpocdbuser1/Desktop/Python-pull/TestFolder#
+2020-09-10 06:44:23,642#git.cmd#DEBUG#Popen(['git', 'init'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=False, shell=None, istream=None)#
+2020-09-10 06:44:23,751#git.util#DEBUG#Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)#
+2020-09-10 06:44:23,762#git.cmd#DEBUG#Popen(['git', 'remote', 'add', 'origin', 'https://github.com/sachinpai26/test.git'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=False, shell=None, istream=None)#
+2020-09-10 06:44:23,835#git.cmd#DEBUG#Popen(['git', 'fetch', '-v', 'origin'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=True, shell=None, istream=None)#
+2020-09-10 06:44:26,001#git.cmd#DEBUG#Popen(['git', 'pull', '-v', 'origin', 'master'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=True, shell=None, istream=None)#
+2020-09-10 06:44:27,051#git.remote#DEBUG#Fetch head lines do not match lines provided via progress information
+length of progress lines 2 should be equal to lines in FETCH_HEAD file 1
+Will ignore extra progress lines or fetch head lines.#
+2020-09-10 06:44:27,051#git.remote#DEBUG#info lines: [' * branch            master     -> FETCH_HEAD', ' = [up to date]      master     -> origin/master']#
+2020-09-10 06:44:27,051#git.remote#DEBUG#head info : ["b1a953666b06a5f3474b2be1b11a01067b5925e4\t\tbranch 'master' of https://github.com/sachinpai26/test\n"]#
+2020-09-10 06:44:27,051#root#INFO#Package successfully pulled from the repo.#
+2020-09-10 06:44:53,268#root#INFO#Conversion to exe file successful#
+2020-09-10 06:45:25,509#root#INFO#Exe file successfully executed#
+2020-09-10 06:45:25,564#root#INFO#Database connected successfully#
+2020-09-10 06:45:25,579#root#INFO#Logs updated in the database#
+2020-09-10 06:46:48,561#root#INFO#Created the folder C://Users/varianpocdbuser1/Desktop/Python-pull/TestFolder#
+2020-09-10 06:46:48,564#git.cmd#DEBUG#Popen(['git', 'init'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=False, shell=None, istream=None)#
+2020-09-10 06:46:48,664#git.util#DEBUG#Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)#
+2020-09-10 06:46:48,668#git.cmd#DEBUG#Popen(['git', 'remote', 'add', 'origin', 'https://github.com/sachinpai26/test.git'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=False, shell=None, istream=None)#
+2020-09-10 06:46:48,729#git.cmd#DEBUG#Popen(['git', 'fetch', '-v', 'origin'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=True, shell=None, istream=None)#
+2020-09-10 06:46:50,539#git.cmd#DEBUG#Popen(['git', 'pull', '-v', 'origin', 'master'], cwd=C:\Users\varianpocdbuser1\Desktop\Python-pull\TestFolder, universal_newlines=True, shell=None, istream=None)#
+2020-09-10 06:46:51,540#git.remote#DEBUG#Fetch head lines do not match lines provided via progress information
+length of progress lines 2 should be equal to lines in FETCH_HEAD file 1
+Will ignore extra progress lines or fetch head lines.#
+2020-09-10 06:46:51,548#git.remote#DEBUG#info lines: [' * branch            master     -> FETCH_HEAD', ' = [up to date]      master     -> origin/master']#
+2020-09-10 06:46:51,548#git.remote#DEBUG#head info : ["b1a953666b06a5f3474b2be1b11a01067b5925e4\t\tbranch 'master' of https://github.com/sachinpai26/test\n"]#
+2020-09-10 06:46:51,548#root#INFO#Package successfully pulled from the repo.#
+2020-09-10 06:47:07,684#root#INFO#Conversion to exe file successful#
+2020-09-10 06:47:17,489#root#INFO#Exe file successfully executed#
+2020-09-10 06:47:17,517#root#INFO#Database connected successfully#
+2020-09-10 06:47:17,528#root#INFO#Logs updated in the database#
+

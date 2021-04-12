@@ -1,0 +1,1 @@
+start-process -FilePath "E:\Varian_Repo\Notepad\npp.7.8.Installer.x64.exe" -ArgumentList '/S' -Verb runas -Wait
